@@ -1,0 +1,65 @@
+/* Inserta tu CSS aqui */
+.contenedor {
+	width: 850px;
+	height: 450px;
+	background-color: #4B8A08;
+	position: fixed;
+
+}
+.linea {
+	width: 800px;
+	height: 400px;
+	background-color: #4B8A08;
+	border:1px solid white;
+    top:30px;
+    left:30px;
+    right: 10px;
+    bottom: 10px;
+    position: fixed;
+}
+
+.porteriauno{
+	border: white solid 1px;
+	width: 100px;
+	height: 300px;
+	position: relative;
+	top: 50px;
+}
+
+.porteriados{
+	width: 100px;
+    height: 300px;
+    border:1px solid white;
+    margin-top:-253px;
+    margin-right: 0;
+    float:right;
+}
+
+.circulo{
+	width: 200px;
+	height: 200px;
+	-moz-border-radius:140px;
+	-webkit-border-radius:140px;
+	border-radius: 140px;
+	margin-top:-200px;
+	margin-left: 300px;
+    border:1px solid white;
+}
+.uno {
+	position: absolute;
+	left: 90px;
+	bottom: 255px;
+
+}
+.dos {
+	position: absolute;
+	left: 415px;
+	bottom: 340px;
+
+}
+.tres {
+	position: absolute;
+	left: 670px;
+	bottom: 150px
+
+}
