@@ -2,14 +2,14 @@
 .contenedor {
 	width: 850px;
 	height: 450px;
-	background-color: #4B8A08;
+	background-color: #92BE8B;
 	position: fixed;
 
 }
 .linea {
 	width: 800px;
 	height: 400px;
-	background-color: #4B8A08;
+	background-color: #92BE8B;
 	border:1px solid white;
     top:30px;
     left:30px;
